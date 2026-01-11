@@ -1,0 +1,4 @@
+# Write your MySQL query statement below
+Select name, Population , area
+FROM World 
+where Area > 3000000 Or Population > 25000000;
